@@ -1,0 +1,7 @@
+{
+  "name": "iconicProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
